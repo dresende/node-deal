@@ -1,0 +1,21 @@
+{
+  "author"      : "Diogo Resende <dresende@thinkdigital.pt>",
+  "name"        : "deal",
+  "description" : "NodeJS Dealer",
+  "keywords"    : [
+    "deal"
+  ],
+  "version"     : "0.0.1",
+  "license"     : "MIT",
+  "repository"  : "http://github.com/dresende/node-deal.git",
+  "scripts"     : {
+    "test"           : "make"
+  },
+  "main"        : "./lib/Deal",
+  "engines"     : {
+    "node"           : "*"
+  },
+  "analyse"     : false,
+  "dependencies": {},
+  "devDependencies": {}
+}
